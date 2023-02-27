@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/copy-two-paper-sheets-interface-symbol.png</file>
+        <file>images/cut.png</file>
+        <file>images/download.png</file>
+        <file>images/folder.png</file>
+        <file>images/new.png</file>
+        <file>images/paste.png</file>
+        <file>images/redo (1).png</file>
+        <file>images/save.png</file>
+        <file>images/undo.png</file>
+    </qresource>
+</RCC>
